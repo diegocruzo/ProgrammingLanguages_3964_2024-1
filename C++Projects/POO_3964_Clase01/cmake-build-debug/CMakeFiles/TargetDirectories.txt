@@ -1,0 +1,3 @@
+D:/C++Projects/POO_3964_Clase01/cmake-build-debug/CMakeFiles/POO_3964_Clase01.dir
+D:/C++Projects/POO_3964_Clase01/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++Projects/POO_3964_Clase01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
