@@ -97,7 +97,7 @@ public class Persona extends Mamifero{
 
     // Sobre escritura de métodos
     @Override
-    public String Expresarse(){
-        return "¡Hola!";
+    public void Expresarse(){
+        System.out.println("¡Hola!");
     }
 }

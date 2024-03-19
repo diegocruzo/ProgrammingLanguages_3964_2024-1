@@ -4,7 +4,7 @@ using namespace std;
 // Abstracción: Clase superior
 class Mamifero {
 private: // Encapsulamiento
-    string nombre;
+    string nombre, expresion;
 public:
     // Constructor de la clase
     Mamifero(string nombre){
@@ -23,8 +23,12 @@ public:
         this->nombre = nombre;
     }
 
-    void Expresarse(){
-        cout << "Por definir" << endl;
+    const string &getExpresion() const {
+        return expresion;
+    }
+
+    void setExpresion(const string &expresion) {
+        Mamifero::expresion = expresion;
     }
 };
 
@@ -139,7 +143,7 @@ int main() {
     // Hacer uso de la instancia con propiedades y métodos
     ana.setNombre("Ana");
     ana.setSexoBiologico('f');
-    ana.setFechaNacimiento(30,02,1600);
+    ana.setFechaNacimiento(29,02,1920);
     cout << "Usuario: " << ana.getNombre() << endl;
     cout << "Tipo de documento: " << ana.getTipoId() << endl;
     cout << "Número de documento: " << ana.getNumId() << endl;

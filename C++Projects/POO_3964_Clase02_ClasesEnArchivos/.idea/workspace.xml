@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="POO_3964_Clase02" targetName="POO_3964_Clase02" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="08a6c592-3e7c-448d-8e49-916de95bffa3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../POO_3964_Clase01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/POO_3964_Clase02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Animal.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Animal.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mamifero.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mamifero.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perro.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perro.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Persona.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Persona.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO_3964_Clase02_ListaEnlazada/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO_3964_Clase02_ListaEnlazada/.idea/POO_3964_Clase02_ListaEnlazada.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO_3964_Clase02_ListaEnlazada/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO_3964_Clase02_ListaEnlazada/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO_3964_Clase02_ListaEnlazada/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO_3964_Clase02_ListaEnlazada/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO_3964_Clase02_ListaEnlazada/LInkedList.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO_3964_Clase02_ListaEnlazada/LInkedList.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO_3964_Clase02_ListaEnlazada/Node.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO_3964_Clase02_ListaEnlazada/Node.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO_3964_Clase02_ListaEnlazada/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO_3964_Clase02_Punteros/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO_3964_Clase02_Punteros/.idea/POO_3964_Clase02_Punteros.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO_3964_Clase02_Punteros/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO_3964_Clase02_Punteros/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO_3964_Clase02_Punteros/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO_3964_Clase02_Punteros/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO_3964_Clase02_Punteros/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaProjects/POO_3964_Clase04_HerenciaMultiple/src/Animals/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaProjects/POO_3964_Clase04_HerenciaMultiple/src/Animals/Perro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaProjects/POO_3964_Clase04_HerenciaMultiple/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaProjects/POO_3964_Clase04_HerenciaMultiple/src/ParentClasses/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaProjects/POO_3964_Clase04_HerenciaMultiple/src/ParentClasses/Mamifero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO_3964_Clase01/cmake-build-debug/.cmake/api/v1/reply/cache-v2-8a61564d3429af470409.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO_3964_Clase01/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-7ce04fb655e1106ad4d9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO_3964_Clase01/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-5881136b45ebb725b186.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO_3964_Clase01/cmake-build-debug/.cmake/api/v1/reply/index-2024-03-05T14-52-26-0492.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO_3964_Clase01/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../POO_3964_Clase01/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO_3964_Clase01/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../POO_3964_Clase01/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO_3964_Clase01/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../POO_3964_Clase01/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO_3964_Clase01/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../POO_3964_Clase01/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO_3964_Clase01/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../POO_3964_Clase01/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO_3964_Clase01/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../POO_3964_Clase01/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO_3964_Clase01/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../POO_3964_Clase01/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO_3964_Clase01/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../POO_3964_Clase01/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO_3964_Clase01/cmake-build-debug/CMakeFiles/POO_3964_Clase01.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../POO_3964_Clase01/cmake-build-debug/CMakeFiles/POO_3964_Clase01.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO_3964_Clase01/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../POO_3964_Clase01/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO_3964_Clase01/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../POO_3964_Clase01/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO_3964_Clase01/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../POO_3964_Clase01/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO_3964_Clase01/cmake-build-debug/POO_3964_Clase01.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../POO_3964_Clase01/cmake-build-debug/POO_3964_Clase01.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO_3964_Clase01/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../POO_3964_Clase01/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO_3964_Clase01/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../POO_3964_Clase01/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO_3964_Clase01/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../POO_3964_Clase01/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO_3964_Clase01/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../POO_3964_Clase01/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProjects/POO_3964_Clase03/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaProjects/POO_3964_Clase03/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProjects/POO_3964_Clase03/src/Mamifero.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaProjects/POO_3964_Clase03/src/Mamifero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProjects/POO_3964_Clase03/src/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaProjects/POO_3964_Clase03/src/Persona.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="2.2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2daikDLE06aPF8tRaAU9K4LZ4lV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Fullstack/ProgrammingLanguages_3964_2024-1/C++Projects/POO_3964_Clase02_ClasesEnArchivos/CMakeLists.txt",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="POO_3964_Clase02" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="POO_3964_Clase02" TARGET_NAME="POO_3964_Clase02" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="POO_3964_Clase02" RUN_TARGET_NAME="POO_3964_Clase02">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08a6c592-3e7c-448d-8e49-916de95bffa3" name="Changes" comment="" />
+      <created>1710252731081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710252731081</updated>
+      <workItem from="1710252732818" duration="4834000" />
+      <workItem from="1710790690776" duration="1413000" />
+      <workItem from="1710866017648" duration="2795000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
+  </component>
+</project>

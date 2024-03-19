@@ -10,8 +10,8 @@ public class Mamifero {
     }
 
     // Método para todos los mamíferos
-    public String Expresarse(){
-        return "Por definir";
+    public void Expresarse(){
+        System.out.println("Por definir");
     }
 
     // Setters y Getters

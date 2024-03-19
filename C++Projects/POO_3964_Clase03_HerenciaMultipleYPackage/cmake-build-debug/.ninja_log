@@ -1,0 +1,19 @@
+# ninja log v5
+27	1213	7325810527673135	CMakeFiles/POO_3964_Clase03_HerenciaMultipleYPackage.dir/ParentClasses/Animal.cpp.obj	5fe007afb43db4af
+2	1220	7325810527723004	CMakeFiles/POO_3964_Clase03_HerenciaMultipleYPackage.dir/Animals/Gato.cpp.obj	3362309e04dae364
+14	1228	7325810527832757	CMakeFiles/POO_3964_Clase03_HerenciaMultipleYPackage.dir/main.cpp.obj	46101b42a91b6cc6
+18	1284	7325810528381232	CMakeFiles/POO_3964_Clase03_HerenciaMultipleYPackage.dir/ParentClasses/Mamifero.cpp.obj	f79af7f0c9d6b0fa
+9	1285	7325810528391208	CMakeFiles/POO_3964_Clase03_HerenciaMultipleYPackage.dir/Animals/Perro.cpp.obj	6b54cef1525cb27b
+1286	1578	7325810531293438	POO_3964_Clase03_HerenciaMultipleYPackage.exe	afe7129c29735efd
+4	644	7325811754574573	CMakeFiles/POO_3964_Clase03_HerenciaMultipleYPackage.dir/main.cpp.obj	46101b42a91b6cc6
+645	790	7325811756030672	POO_3964_Clase03_HerenciaMultipleYPackage.exe	afe7129c29735efd
+11	1021	7325812904798925	CMakeFiles/POO_3964_Clase03_HerenciaMultipleYPackage.dir/Animals/Gato.cpp.obj	3362309e04dae364
+15	1030	7325812904888688	CMakeFiles/POO_3964_Clase03_HerenciaMultipleYPackage.dir/main.cpp.obj	46101b42a91b6cc6
+20	1047	7325812905058243	CMakeFiles/POO_3964_Clase03_HerenciaMultipleYPackage.dir/ParentClasses/Animal.cpp.obj	5fe007afb43db4af
+4	1064	7325812905227792	CMakeFiles/POO_3964_Clase03_HerenciaMultipleYPackage.dir/Animals/Perro.cpp.obj	6b54cef1525cb27b
+1064	1199	7325812906554240	POO_3964_Clase03_HerenciaMultipleYPackage.exe	afe7129c29735efd
+11	833	7325813182543430	CMakeFiles/POO_3964_Clase03_HerenciaMultipleYPackage.dir/Animals/Perro.cpp.obj	6b54cef1525cb27b
+19	835	7325813182573348	CMakeFiles/POO_3964_Clase03_HerenciaMultipleYPackage.dir/ParentClasses/Animal.cpp.obj	5fe007afb43db4af
+5	846	7325813182683060	CMakeFiles/POO_3964_Clase03_HerenciaMultipleYPackage.dir/Animals/Gato.cpp.obj	3362309e04dae364
+15	865	7325813182882514	CMakeFiles/POO_3964_Clase03_HerenciaMultipleYPackage.dir/main.cpp.obj	46101b42a91b6cc6
+865	1001	7325813184209329	POO_3964_Clase03_HerenciaMultipleYPackage.exe	afe7129c29735efd
