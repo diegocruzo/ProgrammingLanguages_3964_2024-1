@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/Fullstack/ProgrammingLanguages_3964_2024-1/POO_3964_Clase02_ListaEnlazada/cmake-build-debug"
+			"value" : "d:/Fullstack/ProgrammingLanguages_3964_2024-1/C++Projects/POO_3964_Clase02_ListaEnlazada/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Fullstack/ProgrammingLanguages_3964_2024-1/POO_3964_Clase02_ListaEnlazada/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "D:/Fullstack/ProgrammingLanguages_3964_2024-1/C++Projects/POO_3964_Clase02_ListaEnlazada/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/Fullstack/ProgrammingLanguages_3964_2024-1/POO_3964_Clase02_ListaEnlazada"
+			"value" : "D:/Fullstack/ProgrammingLanguages_3964_2024-1/C++Projects/POO_3964_Clase02_ListaEnlazada"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1279,7 +1279,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Fullstack/ProgrammingLanguages_3964_2024-1/POO_3964_Clase02_ListaEnlazada/cmake-build-debug"
+			"value" : "D:/Fullstack/ProgrammingLanguages_3964_2024-1/C++Projects/POO_3964_Clase02_ListaEnlazada/cmake-build-debug"
 		},
 		{
 			"name" : "POO_3964_Clase02_ListaEnlazada_IS_TOP_LEVEL",
@@ -1303,7 +1303,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Fullstack/ProgrammingLanguages_3964_2024-1/POO_3964_Clase02_ListaEnlazada"
+			"value" : "D:/Fullstack/ProgrammingLanguages_3964_2024-1/C++Projects/POO_3964_Clase02_ListaEnlazada"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

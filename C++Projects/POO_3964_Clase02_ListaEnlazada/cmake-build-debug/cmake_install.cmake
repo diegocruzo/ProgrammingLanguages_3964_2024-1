@@ -1,4 +1,4 @@
-# Install script for directory: D:/Fullstack/ProgrammingLanguages_3964_2024-1/POO_3964_Clase02_ListaEnlazada
+# Install script for directory: D:/Fullstack/ProgrammingLanguages_3964_2024-1/C++Projects/POO_3964_Clase02_ListaEnlazada
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/Fullstack/ProgrammingLanguages_3964_2024-1/POO_3964_Clase02_ListaEnlazada/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/Fullstack/ProgrammingLanguages_3964_2024-1/C++Projects/POO_3964_Clase02_ListaEnlazada/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
